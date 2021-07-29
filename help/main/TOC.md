@@ -5,7 +5,7 @@ breadcrumb-title: Advertising Cloud Tutorials
 solution: Advertising Cloud
 source-git-commit: 51653563d0c9a304a30eefef31865e2cc0cb738e
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
