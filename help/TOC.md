@@ -3,9 +3,9 @@ user-guide-title: Adobe Advertising Cloud Tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Advertising Cloud.
 breadcrumb-title: Advertising Cloud Tutorials
 solution: Advertising Cloud
-source-git-commit: 3814915ff4ab6709c480812478cb7719f3004a84
+source-git-commit: 0821a090afa1799333ca6ef99438667dfdf4b0ee
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 + [Overzicht](overview.md)
 + DSP {#dsp}
-   + [Inleiding tot Advertising Cloud DSP](/help/dsp/overview.md)
+   + [Inleiding tot Advertising Cloud DSP](/help/dsp/intro.md)
    + [Accountstructuur en gebruikersinterface](/help/dsp/ui.md)
    + [Hoe te om te bulken uploadt de Markeringen van de Derden Ad](/help/dsp/bulk-upload-third-party-ad-tags.md)
    + [Plaatsen bewerken met Bulk bewerkingsgereedschappen](/help/dsp/bulk-edit-placement-tools.md)
