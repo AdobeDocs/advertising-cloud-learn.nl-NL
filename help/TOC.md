@@ -3,9 +3,9 @@ user-guide-title: Adobe Advertising Cloud Tutorials
 user-guide-description: Een verzameling video's en zelfstudies voor Adobe Advertising Cloud.
 breadcrumb-title: Advertising Cloud Tutorials
 solution: Advertising Cloud
-source-git-commit: edc34ada8963b389a26a1e466c2154d21a10ca61
+source-git-commit: dffd703372fd2b14e3f13d1c6c9a754301a6b0ac
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,3 +36,5 @@ ht-degree: 0%
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
 -->
+
+<!-- If I move the "Analytics for Advertising Cloud chapter into a larger Integrations chapter, then I'll need to set up redirects by copying a CSV file into this repo and populating it for those legacy file names. -->
