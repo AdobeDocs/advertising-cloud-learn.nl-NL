@@ -1,17 +1,15 @@
 ---
-title: Een plaatsing maken voor Advertising Cloud DSP
-description: Leer hoe u een plaatsing maakt.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+title: Een standaardweergavEPLAATS maken voor Advertising Cloud DSP
+description: Leer hoe u een standaardplaatsing voor beeldschermen maakt.
+source-git-commit: ebceb6cdd931dfb799d2b54f3ab5be84e227e7dd
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# Een plaatsing maken
+# Hoe te om een StandaardPlaatsing van de Vertoning te creëren
 
-Leer hoe u een plaatsing maakt voor een Advertising Cloud DSP-campagne.
+Leer hoe u een standaardplaatsing voor een Advertising Cloud DSP-campagne kunt maken.
 
-<!--
->[!VIDEO]()
--->
+>[!VIDEO](https://video.tv.adobe.com/v/340454)
