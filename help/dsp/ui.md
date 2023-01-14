@@ -1,15 +1,16 @@
 ---
-title: Advertising Cloud DSP-accountstructuur en -gebruikersinterface
+title: Accountstructuur en gebruikersinterface DSP
 description: Krijg kennis van de DSP van de rekeningsstructuur en gebruikersinterface.
-source-git-commit: 2a499d05defe0dd44c3c4ba0584ac506939bca71
+exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 # Accountstructuur en gebruikersinterface
 
-Leer hoe uw Advertising Cloud DSP en accounts zijn gestructureerd, hoe u de weergaven van het campagnebeheer kunt gebruiken en beschrijvingen van het beheer van het publiek, de inventarisatie, rapportage, instellingen en functies voor resources.
+Leer hoe uw DSP en accounts zijn gestructureerd, hoe u de weergaven van het campagnebeheer kunt gebruiken en beschrijvingen van het beheer van het publiek, de inventarisatie, rapportage, instellingen en functies voor resources.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339206)

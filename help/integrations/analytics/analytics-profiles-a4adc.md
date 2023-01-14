@@ -1,18 +1,18 @@
 ---
-title: Maken [!DNL Analytics] Profielen voor Advertising Cloud-activering en -rapportage
-description: Leer hoe u Adobe Analytics kunt gebruiken om robuuste sites voor herbestemming te maken voor het opnieuw op de markt brengen van Advertising Cloud.
+title: Maken [!DNL Analytics] Profielen voor activering en rapportage van Adobe-reclame
+description: Leer hoe u Adobe Analytics kunt gebruiken om robuuste sites te maken die opnieuw gericht zijn op Adobe Advertising remarketing.
 exl-id: e367435c-238a-4025-a160-ff72d45ea741
-source-git-commit: 1a5d4f41f6ef3e297fea43c6557513e7f5cfc900
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Maken [!DNL Analytics] Profielen voor Advertising Cloud-activering en -rapportage
+# Maken [!DNL Analytics] Profielen voor activering en rapportage van Adobe-reclame
 
-*Adverteerders met[!DNL Adobe Analytics for Advertising Cloud]*
+*Adverteerders met[!DNL Adobe Analytics for Adobe Advertising]*
 
-Leer hoe u Adobe Analytics kunt gebruiken om robuuste sites voor herbestemming te maken voor het opnieuw op de markt brengen van Advertising Cloud.
+Leer hoe u Adobe Analytics kunt gebruiken om robuuste sites te maken die opnieuw gericht zijn op Adobe Advertising remarketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33503)

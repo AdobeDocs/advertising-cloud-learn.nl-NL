@@ -1,15 +1,16 @@
 ---
-title: Plaatsen bewerken met Bulk bewerkingsgereedschappen voor Advertising Cloud DSP
+title: Hoe te om Plaatsen uit te geven die Bulk uitgeeft Hulpmiddelen voor DSP gebruiken
 description: Leer hoe u de instellingen voor meerdere plaatsingen tegelijk kunt bewerken.
-source-git-commit: bc4c9b3852211e25ef1981c38d03e3bb47c60964
+exl-id: 3c9abc04-0261-4ba1-a19d-68a6d862f660
+source-git-commit: 2293acc5d4ee8acb9c631790853645661edafa34
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
 # Plaatsen bewerken met Bulk bewerkingsgereedschappen
 
-Leer hoe u de instellingen voor meerdere plaatsingen tegelijk in Advertising Cloud DSP kunt bewerken.
+Leer hoe u de instellingen voor meerdere plaatsen tegelijk in DSP kunt bewerken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339205)
